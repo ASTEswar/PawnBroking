@@ -1,0 +1,419 @@
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn Broking.csproj.AssemblyReference.cache
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.Customer_Balance_Form.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.BanktransactionForm1.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.Custom_Details_Change.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.CustomSearchEng.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.DaybookentryForm1.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.DaybookForm1.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.Homepage_Form.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.formitemdeatails.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.Login_Form.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.Properties.Resources.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.LedgerForm.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.LedgerstatmentForm1.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.PartybalanceForm1.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.PaymententryForm1.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.PaymentreportForm1.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.ReceiptentrysForm1.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.RecieptreportForm1.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn Broking.csproj.GenerateResource.cache
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn Broking.csproj.CoreCompileInputs.cache
+D:\Github C#\Pawn Broking\Pawn Broking\bin\Debug\Pawn Broking.exe.config
+D:\Github C#\Pawn Broking\Pawn Broking\bin\Debug\Pawn Broking.exe
+D:\Github C#\Pawn Broking\Pawn Broking\bin\Debug\Pawn Broking.pdb
+D:\Github C#\Pawn Broking\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Github C#\Pawn Broking\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Github C#\Pawn Broking\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Github C#\Pawn Broking\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Github C#\Pawn Broking\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Github C#\Pawn Broking\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Github C#\Pawn Broking\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Github C#\Pawn Broking\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Github C#\Pawn Broking\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Github C#\Pawn Broking\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn Bro.79632F64.Up2Date
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn Broking.exe
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn Broking.pdb
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.Master_UI.loan2Form1.resources
+D:\Github C#\Pawn Broking\Pawn Broking\obj\Debug\Pawn_Broking.UI.LoanreturnForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn Broking.csproj.AssemblyReference.cache
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Customer_Balance_Form.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.BanktransactionForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Custom_Details_Change.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.CustomSearchEng.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.DaybookentryForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.DaybookForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.Master_UI.loanForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Homepage_Form.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.Login_Form.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.Properties.Resources.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.LedgerForm.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.LedgerstatmentForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.PartybalanceForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.PaymententryForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.PaymentreportForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.ReceiptentrysForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.RecieptreportForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn Broking.csproj.GenerateResource.cache
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn Broking.csproj.CoreCompileInputs.cache
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn Broking.exe
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn Broking.pdb
+G:\new Github C#\Pawn Broking\bin\Debug\Pawn Broking.exe.config
+G:\new Github C#\Pawn Broking\bin\Debug\Pawn Broking.exe
+G:\new Github C#\Pawn Broking\bin\Debug\Pawn Broking.pdb
+G:\new Github C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+G:\new Github C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+G:\new Github C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+G:\new Github C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+G:\new Github C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn Bro.79632F64.Up2Date
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.LoanactionrptForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.LoanregisterForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Loan2returnForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.ActiondeatailsForm1.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.Master_UI.Edit_Password_Form.resources
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.Master_UI.PasswordEnter.resources
+G:\new Github C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Docking.dll
+G:\new Github C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+G:\new Github C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+G:\new Github C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+G:\new Github C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+G:\new Github C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.ItemDetails.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\Pawn Broking.exe.config
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\Pawn Broking.exe
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\Pawn Broking.pdb
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\stdole.dll
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn Broking.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Customer_Balance_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Bank_Transaction_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Custom_Details_Change.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Custom_Search_Engine.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.DayBook_Entry_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.DayBook_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.Master_UI.Edit_Password_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.Master_UI.Password_Enter.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Account_Interest_Amount.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Address.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.CrysReportViewer.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Daily_Loan.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Daily_Loan_Details.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Homepage_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.Master_UI.Loan_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Action_Details_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Item_Details.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Item_in_HandForm.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Loan_Action_Report.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Loan_Register_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Loan2returnForm1.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Loan_Details_Itemin_Hand.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Loan_History.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Loan_Item_in_Hand.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.Login_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.Properties.Resources.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Ledger_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Ledger_Statment_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Party_Balance_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.PaymententryForm1.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Payment_Report_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Receipt_Entry_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Reciept_Report_Form.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Pending_Details.resources
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn Broking.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn Broking.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn Bro.79632F64.Up2Date
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn Broking.exe
+C:\Users\User\Desktop\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn Broking.pdb
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\Pawn Broking.exe.config
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\Pawn Broking.exe
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\Pawn Broking.pdb
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.Shared.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\stdole.dll
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn Broking.csproj.AssemblyReference.cache
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Customer_Balance_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Bank_Transaction_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Custom_Details_Change.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Custom_Search_Engine.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.DayBook_Entry_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.DayBook_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.Master_UI.Edit_Password_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.Master_UI.Password_Enter.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Account_Interest_Amount.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Address.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.CrysReportViewer.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Daily_Loan.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Daily_Loan_Details.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Homepage_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.Master_UI.Loan_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Action_Details_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Item_Details.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Item_in_HandForm.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Loan_Action_Report.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Loan_Register_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Loan_Details_Itemin_Hand.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Loan_History.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Loan_Item_in_Hand.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.Login_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.Properties.Resources.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Ledger_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Ledger_Statment_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Party_Balance_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.PaymententryForm1.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Payment_Report_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Receipt_Entry_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Reciept_Report_Form.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.Pending_Details.resources
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn Broking.csproj.GenerateResource.cache
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn Broking.csproj.CoreCompileInputs.cache
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn Bro.79632F64.Up2Date
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn Broking.exe
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn Broking.pdb
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\Report\RptLoanSheet.rpt
+G:\Pawn Broking C#\Pawn Broking\bin\Debug\Report\RptLoanSheet.cs
+G:\Pawn Broking C#\Pawn Broking\obj\Debug\Pawn_Broking.UI.LoanReturnForm.resources
+G:\Pawn Broking C#\bin\Debug\Report\RptAccountInt.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptAccountIntNew.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptAddress.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptAddressnew.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptAddressNewEdited.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptAssets.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptBalancesheet.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptCaption.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptCustomerPhoto.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptDailyLoan.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptDailyLoanreturn.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptDailyLoanreturndetails.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptDailyLoanreturndetailsTransaction.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptDailyLoanreturnTransaction.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptDailyLoanTransaction.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptDaybook.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptDaybookPrint.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptDialyRegister.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptDrBalance.rpt
+G:\Pawn Broking C#\bin\Debug\Report\Rpthandloan.rpt
+G:\Pawn Broking C#\bin\Debug\Report\Rpthandloanbalance.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptHandloanreturn.rpt
+G:\Pawn Broking C#\bin\Debug\Report\Rptiteminhand.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptiteminhandEdited.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptItemPhoto.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLabel.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptLedgerDetails.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptLedgerStatement.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptLiabilities.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoan.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptLoanAcct.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanAction.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanActionHistory.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanActionRegister.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanAgreement.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanBackSide.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptLoanBill.rpt
+G:\Pawn Broking C#\bin\Debug\Report\Rptloandetails.rpt
+G:\Pawn Broking C#\bin\Debug\Report\Rptloandetails1.rpt
+G:\Pawn Broking C#\bin\Debug\Report\Rptloandetailsiteminhand.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanHistoryNew.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanHistory.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanIntrestHistory.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanitemdets.rpt
+G:\Pawn Broking C#\bin\Debug\Report\Rptloaniteminhand.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanIteminHandEdited.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanPendingRegister.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptLoanRegister - Copy (2).rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptLoanRegisterEdited.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptLoanRegister.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanReturn.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanReturnHistory - Copy.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanReturnHistory.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanSheet.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanSheetSual Side.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanSheet_2.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptNewStatement.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptNewStatement1.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptPandL.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptPayment.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptPrintLedStatement.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptProfit.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptReceipt.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptReceiptbill.rpt
+G:\Pawn Broking C#\bin\Debug\Report\rptTrialBalance.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptVoucher.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptVoucherdetals.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptVoucherdetalsTransaction.rpt
+G:\Pawn Broking C#\bin\Debug\Report\RptAccountInt.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptAccountIntNew.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptAddress.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptAddressnew1.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptAddressNewEdited.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptAssets.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptBalancesheet.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptCaption.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptCustomerPhoto.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptDailyLoan.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptDailyLoanreturn.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptDailyLoanreturndetails.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptDailyLoanreturndetailsTransaction.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptDailyLoanreturnTransaction.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptDailyLoanTransaction.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptDaybook.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptDaybookPrint.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptDialyRegister.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptDrBalance.cs
+G:\Pawn Broking C#\bin\Debug\Report\Rpthandloan.cs
+G:\Pawn Broking C#\bin\Debug\Report\Rpthandloanbalance.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptHandloanreturn.cs
+G:\Pawn Broking C#\bin\Debug\Report\Rptiteminhand.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptiteminhandEdited.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptItemPhoto.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLabel.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptLedgerDetails.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptLedgerStatement.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptLiabilities.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoan.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptLoanAcct.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanAction.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanActionHistory.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanActionRegister.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanAgreement.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanBackSide.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptLoanBill.cs
+G:\Pawn Broking C#\bin\Debug\Report\Rptloandetails.cs
+G:\Pawn Broking C#\bin\Debug\Report\Rptloandetails1.cs
+G:\Pawn Broking C#\bin\Debug\Report\Rptloandetailsiteminhand.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanHistoryNew.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanHistory.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanIntrestHistory.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanitemdets.cs
+G:\Pawn Broking C#\bin\Debug\Report\Rptloaniteminhand.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanIteminHandEdited.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanPendingRegister.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptLoanRegister - Copy (2).cs
+G:\Pawn Broking C#\bin\Debug\Report\rptLoanRegisterEdited.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptLoanRegister.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanReturn.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanReturnHistory - Copy.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanReturnHistory.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanSheet.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanSheetSual Side.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptLoanSheet_2.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptNewStatement.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptNewStatement1.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptPandL.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptPayment.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptPrintLedStatement.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptProfit.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptReceipt.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptReceiptbill.cs
+G:\Pawn Broking C#\bin\Debug\Report\rptTrialBalance.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptVoucher.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptVoucherdetals.cs
+G:\Pawn Broking C#\bin\Debug\Report\RptVoucherdetalsTransaction.cs
+G:\Pawn Broking C#\bin\Debug\Pawn Broking.exe.config
+G:\Pawn Broking C#\bin\Debug\Pawn Broking.exe
+G:\Pawn Broking C#\bin\Debug\Pawn Broking.pdb
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.Shared.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Pawn Broking C#\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Pawn Broking C#\bin\Debug\stdole.dll
+G:\Pawn Broking C#\obj\Debug\Pawn Broking.csproj.AssemblyReference.cache
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Customer_Balance_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Bank_Transaction_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Custom_Details_Change.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Custom_Search_Engine.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.DayBook_Entry_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.DayBook_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.Master_UI.Edit_Password_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.Master_UI.Password_Enter.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Account_Interest_Amount.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Address.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.CrysReportViewer.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Daily_Loan.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Daily_Loan_Details.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Homepage_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.Master_UI.Loan_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Action_Details_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Item_Details.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Item_in_HandForm.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Loan_Action_Report.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Loan_Register_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.LoanReturnForm.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Loan_Details_Itemin_Hand.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Loan_History.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Loan_Item_in_Hand.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.Login_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.Properties.Resources.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Ledger_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Ledger_Statment_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Party_Balance_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.PaymententryForm1.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Payment_Report_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Receipt_Entry_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Reciept_Report_Form.resources
+G:\Pawn Broking C#\obj\Debug\Pawn_Broking.UI.Pending_Details.resources
+G:\Pawn Broking C#\obj\Debug\Pawn Broking.csproj.GenerateResource.cache
+G:\Pawn Broking C#\obj\Debug\Pawn Broking.csproj.CoreCompileInputs.cache
+G:\Pawn Broking C#\obj\Debug\Pawn Bro.79632F64.Up2Date
+G:\Pawn Broking C#\obj\Debug\Pawn Broking.exe
+G:\Pawn Broking C#\obj\Debug\Pawn Broking.pdb
+G:\Pawn Broking C#\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+G:\Pawn Broking C#\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+G:\Pawn Broking C#\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+G:\Pawn Broking C#\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+G:\Pawn Broking C#\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+G:\Pawn Broking C#\bin\Debug\ComponentFactory.Krypton.Docking.dll
+G:\Pawn Broking C#\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+G:\Pawn Broking C#\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+G:\Pawn Broking C#\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+G:\Pawn Broking C#\bin\Debug\ComponentFactory.Krypton.Workspace.dll
